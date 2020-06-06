@@ -5,11 +5,13 @@
 }
 
 body {
-  background: url(/images/game-of-thrones-phone-wallpaper.jpg) no-repeatj;
+background: #aaa;
 }
 
-canvas {
-  background: #eee;
+.main {
+  background: rgb(78, 56, 56);
   display: block;
-  margin: 0 auto;
+  margin: auto;
+  width: 50%;
+  height: 50%;
 }
