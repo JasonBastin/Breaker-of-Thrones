@@ -1,0 +1,15 @@
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: url(/images/game-of-thrones-phone-wallpaper.jpg) no-repeatj;
+}
+
+canvas {
+  background: #eee;
+  display: block;
+  margin: 0 auto;
+}
